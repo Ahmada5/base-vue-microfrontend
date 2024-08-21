@@ -15,5 +15,6 @@ export default class App extends Vue {
 <template>
     <div>
         <NavigationBar />
+        <span class="d-flex justify-center">This is Main Base</span>
     </div>
 </template>

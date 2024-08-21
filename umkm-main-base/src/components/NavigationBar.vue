@@ -1,7 +1,7 @@
 <template>
     <v-container>
         <div class="bg-red">
-            <p>testing</p>
+            <p>NAVBAR</p>
         </div>
     </v-container>
 </template>
